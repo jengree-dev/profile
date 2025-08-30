@@ -22,4 +22,5 @@ I am happy to discuss my architecture decisions, problem-solving approach, and t
 ## Let's Connect
 
 [LinkedIn Profile](https://www.linkedin.com/in/jengrigoreva/)
+
 [jen.grigoreva@gmail.com]
