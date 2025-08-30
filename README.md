@@ -15,7 +15,7 @@ I'm a Full-Stack Web Developer with over 15 years of experience building complex
 
 ## 📁 About My GitHub
 
-**Please note:** The majority of my significant and recent work is proprietary and developed under NDAs for companies like [Uralsib Bank/Yandex]. Therefore, my public GitHub primarily contains smaller personal projects and code examples.
+**Please note:** The majority of my significant and recent work is proprietary and developed under NDAs. Therefore, my public GitHub primarily contains smaller personal projects and code examples.
 
 I am happy to discuss my architecture decisions, problem-solving approach, and the measurable impact of my work in detail during an interview.
 
