@@ -1,4 +1,4 @@
-# Hi there! I'm Jen.
+# Hi there! I'm Jen
 
 I'm a Full-Stack Web Developer with over 15 years of experience building complex, business-critical web applications.
 
